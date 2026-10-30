@@ -16,7 +16,7 @@ chmod +x HollowCreekLauncher-linux-x64
 ./HollowCreekLauncher-linux-x64
 ```
 
-Click **Install** (about a 1 GB download). The launcher keeps the game updated from then on.
+Click **Install** (about an 800 MB download, 1.3 GB on disk). The launcher keeps the game updated from then on.
 
 ## Playing together
 
